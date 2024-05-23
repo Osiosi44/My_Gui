@@ -1,0 +1,16 @@
+C:\Users\Osama\Desktop\MyGui\bin\Debug\net8.0-windows\MyGui.exe
+C:\Users\Osama\Desktop\MyGui\bin\Debug\net8.0-windows\MyGui.deps.json
+C:\Users\Osama\Desktop\MyGui\bin\Debug\net8.0-windows\MyGui.runtimeconfig.json
+C:\Users\Osama\Desktop\MyGui\bin\Debug\net8.0-windows\MyGui.dll
+C:\Users\Osama\Desktop\MyGui\bin\Debug\net8.0-windows\MyGui.pdb
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.Form1.resources
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.csproj.GenerateResource.cache
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.AssemblyInfoInputs.cache
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.AssemblyInfo.cs
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.csproj.CoreCompileInputs.cache
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.dll
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\refint\MyGui.dll
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.pdb
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\MyGui.genruntimeconfig.cache
+C:\Users\Osama\Desktop\MyGui\obj\Debug\net8.0-windows\ref\MyGui.dll
